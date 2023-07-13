@@ -51,7 +51,7 @@
  * @link        https://github.com/your-username/sms-library
  * @license     MIT License
  */
-
+namespace SMS;
 class SMS {
     private $datetimeFormat = 'Y-m-d H:i:s';
     private $gammuBinLocation;
