@@ -48,7 +48,7 @@
  * @package     SMS
  * @category    Library
  * @version     1.0.0
- * @link        https://github.com/your-username/sms-library
+ * @link        https://github.com/php-sms/sms-library
  * @license     MIT License
  */
 namespace SMS;
